@@ -10,6 +10,7 @@ public class CiDemoApplication {
 		SpringApplication.run(CiDemoApplication.class, args);
 
 		System.out.println("CI project test");
+		System.out.println("Update message");
 	}
 
 }
